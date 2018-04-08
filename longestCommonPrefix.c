@@ -1,3 +1,4 @@
+/* AC not confirmed yet */
 char* longestCommonPrefix(char** strs, int strsSize) {
     int len = 0;
     int i, j;
